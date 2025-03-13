@@ -10,7 +10,7 @@
 ## Education 
 
 - MS.c in Finance and Analytics | Santa Clara University (_Dec 2024_)
-- BS.c in Economics and Management | London School of Economics and Political Science (_Dec 2022_)
+- BS.c in Economics and Management    | London School of Economics and Political Science (_Dec 2022_)
 
 ## Work Experience 
 **Financial Planning Analyst @ Deloitte Consulting (_June 2022- January 2023_)**
