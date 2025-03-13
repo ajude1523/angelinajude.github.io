@@ -60,9 +60,7 @@ Check out the snapshot of my dashboard below! 👇
 
 ## Licenses & Certifications
 
-SAP ERP Essential Training, ![Issuer-Linkedin](https://via.placeholder.com/150/0000FF/FFFFFF?text=Issuer-Linkedin)
-
-
+SAP ERP Essential Training, **Issuer-Linkedin**
 
 Corporate Accounting Fundamentals, **Issuer-CFI**
 
