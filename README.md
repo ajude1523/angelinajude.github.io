@@ -38,15 +38,14 @@ Worked with a team of 5 to create a complex mathematical model using R programmi
 [Publications](https://github.com/ajude1523/angelinajude.github.io/raw/main/Tesla%20Project%20Report.pdf)
 
 
-
-
-
 ### Business Plan Presentation
 Took part in Business plan presentation and presented a well-designed Pitch Deck bringing in real-time data and figures. I presented a complex financial Analysis supporting the profitability of my business from the current market standpoint. The Pitch deck was sent to Nexus Venture Partners, India, as a part of my project.
 [Publications](https://github.com/ajude1523/angelinajude.github.io/blob/main/X-Skull_Biz%20Plan_final%20.pptx)
 
 ### Interactive dashboard for Netflix using Tableau.
-Created an interactive and a real-time dashboard for Netflix using Tableau as the business intelligence tool as a part of a certification course on data science.
+Created an interactive and real-time dashboard for Netflix using Tableau as the business intelligence tool as a part of a certification course on data science.
+![Publications](https://raw.githubusercontent.com/ajude1523/angelinajude.github.io/main/Netflix.png)
+
 
 
 
