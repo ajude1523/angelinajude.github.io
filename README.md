@@ -59,9 +59,14 @@ Check out the snapshot of my dashboard below! 👇
 ![Publications](https://raw.githubusercontent.com/ajude1523/angelinajude.github.io/main/P&L.png)
 
 ## Licenses & Certifications
+
 SAP ERP Essential Training, **Issuer-Linkedin**
+
 Corporate Accounting Fundamentals, **Issuer-CFI**
+
 Mathematics for machine learning: Linear Algebra, **Issuer-Coursera**
+
+
 
 
 
