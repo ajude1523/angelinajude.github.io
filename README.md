@@ -5,8 +5,8 @@
 #### Financial Modeling & Analytics: Equity Analysis, Investment Analysis, IRR, Multiples Calculation, Cashflow Management, Adjusted Present Value, Regression Analysis with R.
 
 ## Education 
-- M.S., in Finance and Analytics | Santa Clara University (_Dec 2024_)
-- B.S in Economics and Management | London School of Economics and Political Science (_Dec 2022_)
+- MS.c in Finance and Analytics | Santa Clara University (_Dec 2024_)
+- BS.c in Economics and Management | London School of Economics and Political Science (_Dec 2022_)
 
 ## Work Experience 
 **Financial Planning Analyst @ Deloitte Consulting (_June 2022- January 2023_)**
@@ -31,7 +31,7 @@
 
 ## Projects
 ### Bank Customer Churn Rate (CCR) analysis
-Performed a rigorous analysis using Python and Machine learning as a tool to identify the factors that cause the bank church rate to increase and analyse the strength of the correlation between different factors. In the end, I have provided a brief summary of the possible plan of action the management could take to retain their customers and as result reduce the churn rate.
+Performed a rigorous analysis using **Python** and **Machine learning** as a tool to identify the factors that cause the **bank church rate** to increase and analyse the strength of the correlation between different factors. In the end, I have provided a brief summary of the possible plan of action the management could take to retain their customers and as result reduce the churn rate.
 
 ### Optimization of Support Staffing at Tesla in the Heart of Silicon Valley
 Worked with a team of 5 to create a complex mathematical model using R programming to optimize the staffing strategy to generate better efficiency in handling customer calls. As a result, grasped the pulse of its customer base, shaping a support framework that aligned with the Silicon Valley Standards.
@@ -45,6 +45,17 @@ Took part in Business plan presentation and presented a well-designed Pitch Deck
 ### Interactive dashboard for Netflix using Tableau.
 Created an interactive and real-time dashboard for Netflix using Tableau as the business intelligence tool as a part of a certification course on data science.
 ![Publications](https://raw.githubusercontent.com/ajude1523/angelinajude.github.io/main/Netflix.png)
+
+### Interactive Profit and Loss Account 
+I created an interactive Profit & Loss (P&L) dashboard using Tableau, transforming a vast dataset into an insightful financial report. This project involved:
+🔍 Filtering relevant data from a large dataset to focus on key financial metrics. 
+📊 Utilizing a variety of charts and functions to present data in a comprehensible and visually appealing manner.
+📈 Building real-time financial insights, including Gross Profit, EBITDA, PBIT, and Net Profit.
+
+Check out the snapshot of my dashboard below! 👇
+
+
+
 
 
 
