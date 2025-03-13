@@ -43,6 +43,7 @@ I created an interactive Profit & Loss (P&L) dashboard using Tableau, transformi
 📈 Building real-time financial insights, including Gross Profit, EBITDA, PBIT, and Net Profit.
 
 Check out the snapshot of my dashboard below! 👇
+
 ![Publications](https://raw.githubusercontent.com/ajude1523/angelinajude.github.io/main/P&L.png)
 
 ### Interactive dashboard for Netflix using Tableau
@@ -54,7 +55,7 @@ Took part in Business plan presentation and presented a well-designed Pitch Deck
 [Publications](https://github.com/ajude1523/angelinajude.github.io/blob/main/X-Skull_Biz%20Plan_final%20.pptx)
 
 ### Bank Customer Churn Rate (CCR) analysis
-Performed a rigorous analysis using **Python** and **Machine learning** as a tool to identify the factors that cause the **bank church rate** to increase and analyse the strength of the correlation between different factors. In the end, I have provided a brief summary of the possible plan of action the management could take to retain their customers and, as result reduce the churn rate.
+Performed a rigorous analysis using **Python** and **Machine learning** as a tool to identify the factors that cause the **bank church rate** to increase and analyse the strength of the correlation between different factors. In the end, I have provided a brief summary of the possible plan of action the management could take to retain their customers and, as result, reduce the churn rate.
 
 ### Optimization of Support Staffing at Tesla in the Heart of Silicon Valley
 Worked with a team of 5 to create a complex mathematical model using R programming to optimize the staffing strategy to generate better efficiency in handling customer calls. As a result, grasped the pulse of its customer base, shaping a support framework that aligned with the Silicon Valley Standards.
