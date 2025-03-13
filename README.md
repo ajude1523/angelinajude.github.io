@@ -39,8 +39,11 @@ Worked with a team of 5 to create a complex mathematical model using R programmi
 
 
 ### Business Plan Presentation
-Took part in Business plan presentation and presented a well-designed Pitch Deck bringing in real-time data and figures. I presented a complex financial Analysis supporting the profitability of my business from the current market standpoint. The Pitch deck was sent to Nexus Venture Partners, India, as a part of my project. Received the highest Grade and topped the class.
+Took part in Business plan presentation and presented a well-designed Pitch Deck bringing in real-time data and figures. I presented a complex financial Analysis supporting the profitability of my business from the current market standpoint. The Pitch deck was sent to Nexus Venture Partners, India, as a part of my project.
+[Publications](https://github.com/ajude1523/angelinajude.github.io/blob/main/X-Skull_Biz%20Plan_final%20.pptx)
 
+### Interactive dashboard for Netflix using Tableau.
+Created an interactive and a real-time dashboard for Netflix using Tableau as the business intelligence tool as a part of a certification course on data science.
 
 
 
