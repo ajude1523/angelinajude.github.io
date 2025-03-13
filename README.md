@@ -49,10 +49,13 @@ Created an interactive and real-time dashboard for Netflix using Tableau as the 
 ### Interactive Profit and Loss Account 
 I created an interactive Profit & Loss (P&L) dashboard using Tableau, transforming a vast dataset into an insightful financial report. This project involved:
 🔍 Filtering relevant data from a large dataset to focus on key financial metrics. 
+
 📊 Utilizing a variety of charts and functions to present data in a comprehensible and visually appealing manner.
+
 📈 Building real-time financial insights, including Gross Profit, EBITDA, PBIT, and Net Profit.
 
 Check out the snapshot of my dashboard below! 👇
+![Publications](https://raw.githubusercontent.com/ajude1523/angelinajude.github.io/main/P&L.png)
 
 
 
