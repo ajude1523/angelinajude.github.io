@@ -44,7 +44,7 @@ Took part in Business plan presentation and presented a well-designed Pitch Deck
 
 ### Interactive dashboard for Netflix using Tableau.
 Created an interactive and real-time dashboard for Netflix using Tableau as the business intelligence tool as a part of a certification course on data science.
-<img src="https://raw.githubusercontent.com/ajude1523/angelinajude.github.io/main/Netflix.png" width="500">
+<img src="https://raw.githubusercontent.com/ajude1523/angelinajude.github.io/main/Netflix.png" width="1000">
 
 
 ### Interactive Profit and Loss Account 
