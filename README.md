@@ -42,7 +42,7 @@ Worked with a team of 5 to create a complex mathematical model using R programmi
 Took part in Business plan presentation and presented a well-designed Pitch Deck bringing in real-time data and figures. I presented a complex financial Analysis supporting the profitability of my business from the current market standpoint. The Pitch deck was sent to Nexus Venture Partners, India, as a part of my project.
 [Publications](https://github.com/ajude1523/angelinajude.github.io/blob/main/X-Skull_Biz%20Plan_final%20.pptx)
 
-### Interactive dashboard for Netflix using Tableau.
+### Interactive dashboard for Netflix using Tableau
 Created an interactive and real-time dashboard for Netflix using Tableau as the business intelligence tool as a part of a certification course on data science.
 ![Publications](https://raw.githubusercontent.com/ajude1523/angelinajude.github.io/main/Netflix.png)
 
@@ -58,6 +58,10 @@ I created an interactive Profit & Loss (P&L) dashboard using Tableau, transformi
 Check out the snapshot of my dashboard below! 👇
 ![Publications](https://raw.githubusercontent.com/ajude1523/angelinajude.github.io/main/P&L.png)
 
+## Licenses & Certifications
+SAP ERP Essential Training, **Issuer-Linkedin**
+Corporate Accounting Fundamentals, **Issuer-CFI**
+Mathematics for machine learning: Linear Algebra, **Issuer-Coursera**
 
 
 
