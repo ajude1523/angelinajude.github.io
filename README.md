@@ -1,3 +1,5 @@
+![Angelina Jude](https://raw.githubusercontent.com/ajude1523/angelinajude.github.io/main/Profie.jpg)
+
 # Financial Analyst 
 
 #### Technical Skills: Python, R, SQL
