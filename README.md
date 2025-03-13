@@ -1,8 +1,10 @@
 # Financial Analyst 
 
 #### Technical Skills: Python, R, SQL
-#### Hard Skills: Microsoft Excel (pivot tables, VLOOKUP, IF-nested statements), SAP ERP, Power BI, Tableau, QuickBooks.
-#### Financial Modeling & Analytics: Equity Analysis, Investment Analysis, IRR, Multiples Calculation, Cashflow Management, Adjusted Present Value, Regression Analysis with R.
+
+#### Hard Skills: Microsoft Excel (pivot tables, VLOOKUP, IF-nested statements), SAP ERP, Power BI, Tableau, QuickBooks
+
+#### Financial Modeling & Analytics: Equity Analysis, Investment Analysis, IRR, Multiples Calculation, Cashflow Management, Adjusted Present Value, Regression Analysis with R
 
 ## Education 
 - MS.c in Finance and Analytics | Santa Clara University (_Dec 2024_)
