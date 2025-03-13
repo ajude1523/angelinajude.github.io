@@ -35,7 +35,8 @@ Performed a rigorous analysis using Python and Machine learning as a tool to ide
 
 ### Optimization of Support Staffing at Tesla in the Heart of Silicon Valley
 Worked with a team of 5 to create a complex mathematical model using R programming to optimize the staffing strategy to generate better efficiency in handling customer calls. As a result, grasped the pulse of its customer base, shaping a support framework that aligned with the Silicon Valley Standards.
-[Publications](https://github.com/ajude1523/angelinajude.github.io/raw/main/Tesla%20Project%20Report.pdf)
+[Publications](https://angelinajude.github.io/Tesla%20Project%20Report.pdf)
+
 
 
 
