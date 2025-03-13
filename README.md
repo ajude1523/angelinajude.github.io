@@ -1,4 +1,7 @@
-![Angelina Jude](https://raw.githubusercontent.com/ajude1523/angelinajude.github.io/main/Profie.jpg)
+<p align="center">
+  <img src="./Profie.jpg" width="200">
+</p>
+
 
 # Financial Analyst 
 
