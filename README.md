@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./Profie.jpg" width="200">
-</p>
-
 
 # Financial Analyst 
 
@@ -12,6 +8,7 @@
 #### Financial Modeling & Analytics: Equity Analysis, Investment Analysis, IRR, Multiples Calculation, Cashflow Management, Adjusted Present Value, Regression Analysis with R
 
 ## Education 
+
 - MS.c in Finance and Analytics | Santa Clara University (_Dec 2024_)
 - BS.c in Economics and Management | London School of Economics and Political Science (_Dec 2022_)
 
